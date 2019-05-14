@@ -1,5 +1,6 @@
 # graph-dijkstra
 Simple implementation of a Graph class with Dijkstra's algorithm.
+Based on https://gist.github.com/econchick/4666413
 
 ## Usage
 
